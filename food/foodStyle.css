@@ -1,0 +1,43 @@
+html,body {
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to bottom, #a90329 0%,#8f0222 31%,#8f0222 31%,#8f0222 69%,#a90329 99%);
+}
+
+.logo{
+    border-style: solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 120px;
+}
+
+.head{
+    font-size: 75px;
+    text-align: left;
+    display: block;
+    margin-left: auto;
+}
+
+.menuHead{
+    font-size: 35px;
+    text-align: left;
+    display: block;
+    text-decoration: underline;
+    padding: 30px;
+    margin-left: auto;
+}
+.menuItem{
+    font-size: 25px;
+    text-align: left;
+    display: block;
+    text-underline: black;
+    margin-left: auto;
+}
+.info{
+    font-size: 20px;
+    text-align: left;
+    display: block;
+    text-underline: black;
+    margin-left: auto;
+}

@@ -1,0 +1,17 @@
+html,body {
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to bottom, #a90329 0%,#8f0222 31%,#8f0222 31%,#8f0222 69%,#a90329 99%);
+}
+.form-group {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 300px;
+    margin-left: 40px;
+}
+.btn{
+    height: 30px;
+    width: 150px;
+    padding: 8px;
+    margin-left: 40px;
+}
