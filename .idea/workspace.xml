@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32225a07-fb90-42de-8a4d-67398a4108e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RockeyWebsite.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/about.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/aboutIndex.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/aboutStyle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/burgerHero.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/foodIndex.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/foodStyle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/food/logo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobs/jobsIndex.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobs/jobsStyle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locations/locationStyle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locations/locationsIndex.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locations/maps.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logo1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logo3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/subscribe/subStyle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/subscribe/subscribeIndex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/aboutIndex.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/aboutIndex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,8 +19,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            <state relative-caret-position="367">
+              <caret line="43" column="50" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/aboutIndex.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -72,11 +62,12 @@
         <option value="$PROJECT_DIR$/jobs/jobsIndex.html" />
         <option value="$PROJECT_DIR$/jobs/jobsStyle.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/html/aboutIndex.html" />
         <option value="$PROJECT_DIR$/html/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="97" />
     <option name="y" value="68" />
     <option name="width" value="1114" />
@@ -99,7 +90,17 @@
             <path>
               <item name="burger" type="b2602c69:ProjectViewProjectNode" />
               <item name="burger" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger" type="462c0819:PsiDirectoryNode" />
               <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,18 +146,18 @@
       <option name="presentableId" value="Default" />
       <updated>1549731763991</updated>
       <workItem from="1549731765202" duration="12315000" />
-      <workItem from="1550271161814" duration="178000" />
+      <workItem from="1550271161814" duration="697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12493000" />
+    <option name="totallyTimeSpent" value="13012000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="97" y="68" width="1114" height="717" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32387924" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -168,7 +169,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32962447" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.24819277" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -263,10 +264,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/html/aboutIndex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        <state relative-caret-position="367">
+          <caret line="43" column="50" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
         </state>
       </provider>
     </entry>
