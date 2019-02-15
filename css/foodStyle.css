@@ -16,7 +16,6 @@ html,body {
     font-size: 75px;
     text-align: left;
     display: block;
-    margin-left: auto;
 }
 
 .menuHead{
@@ -40,4 +39,9 @@ html,body {
     display: block;
     text-underline: black;
     margin-left: auto;
+}
+.flexing{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
