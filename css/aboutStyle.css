@@ -4,4 +4,7 @@ html,body{
     background: linear-gradient(to bottom, #a90329 0%,#8f0222 44%,#6d0019 100%);
 }
 
-/* didn't work, no background around the pdf */
+#pdfFile{
+    height: 100%;
+    width: 100%;
+}
